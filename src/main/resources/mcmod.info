@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OpenOcular",
+  "name": "Open Ocular",
+  "description": "OpenOcular",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Epix"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
